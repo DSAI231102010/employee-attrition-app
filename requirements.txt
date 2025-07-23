@@ -1,1 +1,11 @@
-pip freeze > requirements.txt
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+catboost
+shap
+lime
+
